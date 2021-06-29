@@ -14,5 +14,5 @@ annual_grant_value = remaining_grant_value / 4
 
 print("Current share price: " + str(share_price))
 print("Remaining grant value: " + str(remaining_grant_value))
-print("Annual grant value at current share price: " + str(annual_grant_value))
-print("Annual TC at current share price: " + str(base_salary + annual_grant_value))
+print("Annual grant value: " + str(annual_grant_value))
+print("Annual TC: " + str(base_salary + annual_grant_value))
