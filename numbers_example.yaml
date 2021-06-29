@@ -1,4 +1,5 @@
 ticker: "cflt"
 num_shares: 1
 num_sold: 1
+strike_price_1
 base_salary: 1
